@@ -1,0 +1,18 @@
+<div class="container-fluid d-grid gap-3" style="width: 40%;"></div>
+<div class="card">
+     <div class="card-header">
+         <div class="row">
+             <div class="col">
+               Fall
+             </div>
+             <div class="col text-end">
+               11/04/22
+             </div>
+          </div>
+     </div>
+     <img src="./pics/trees.jpg" class="card-img-top">
+     <div class="card-body">
+         <p class="card-text"><strong>9999 likes</strong></p>
+         <p class="card-text">I just wanted to share some fall views with you today!</p>
+     </div>
+</div>
